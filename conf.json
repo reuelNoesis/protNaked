@@ -1,0 +1,18 @@
+{
+    "userFacilidade": {
+        "user": "QA_teste1@tvglobo.com.br",
+        "password": "Ncu3mg7jFEcsqPXn"
+    },
+    "userSolicitante": {
+        "user": "QA_teste2@tvglobo.com.br",
+        "password": "faRmkqU23bcaE8Rg"
+    },
+    "userRecex": {
+        "user": "QA_teste3@tvglobo.com.br",
+        "password": "w7sUQ29M4ja3NFfX"
+    },
+    "userPortaria" : {
+        "user": "QA_teste4@tvglobo.com.br",
+        "password": "DY3DG7Z84P5ZDj9v"
+    }
+}
